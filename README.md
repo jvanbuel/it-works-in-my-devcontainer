@@ -1,5 +1,7 @@
 # It Works In My Devcontainer
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jvanbuel/it-works-in-my-devcontainer)
+
 Devcontainers are (supposedly) standardized, reproducible development environments that can be shared with others. This repository is a collection of devcontainer configurations that behave differently when running them locally vs. running them in GitHub Codespaces.
 
 1. [dockerComposeFile](#dockercomposefile)
